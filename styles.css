@@ -1,0 +1,39 @@
+h1 {
+    color: fuchsia;
+}
+
+nav {
+    color:fuchsia;
+}
+
+footer {
+    text-transform: lowercase;
+    text-align: center;
+}
+
+.box-model {
+    background-color: yellow;
+    border: black;
+    border-width: 50px;
+    border-style: solid;
+    padding: 5px;
+    width: 300px
+}
+
+header {
+    background-image: url("https://cdn.shopify.com/s/files/1/0660/1906/6074/files/herringbone-tile-pattern-e0393dbc05452f4925c9163b1d4f28c2.jpg?v=1670019210");
+}
+
+#one {
+    background-color: aliceblue;
+}
+
+#two {
+    background-color: aquamarine;
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding: auto;
+}
